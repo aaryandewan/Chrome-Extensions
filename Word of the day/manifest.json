@@ -1,0 +1,9 @@
+{
+    "manifest_version": 1,
+    "name": "Word of the day",
+    "version": "ONE",
+    "description": "Enrich your vocabulary with a word of the day",
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    }
+}
